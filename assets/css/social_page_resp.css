@@ -45,7 +45,7 @@
   .header-img img {
     flex: 0 0 50%;
     min-width: 60vw;
-    height: auto;
+    max-height: auto;
     z-index: 5;
     margin-left: 0;
   }
@@ -134,7 +134,7 @@
   .header-img img {
     flex: 0 0 50%;
     min-width: 50vw;
-    height: auto;
+    max-height: auto;
     margin-left: 0;
     z-index: 5;
   }
@@ -202,7 +202,7 @@
     .header-img img {
       flex: 0 0 50%;
       min-width: 20vw;
-      height: auto;
+      max-height: auto;
       margin-left: 0;
       z-index: 5;
     }
@@ -253,7 +253,7 @@
    .header-img img {
      flex: 0 0 50%;
      max-width: 25vw;
-     height: auto;
+     max-height: auto;
      margin-left: 0;
      z-index: 5;
    }

@@ -81,7 +81,7 @@ html, body {
 }
 .header-img img {
   max-width: 45%;
-  height: auto;
+  max-height: auto;
   margin-left: 10%;
 }
 .header-img p {
