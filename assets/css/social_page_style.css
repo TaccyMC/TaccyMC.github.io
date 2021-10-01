@@ -78,6 +78,7 @@ html, body {
   flex: 0 0 70%;
   align-self: auto;
   text-align: center;
+  align-items: flex-start;
 }
 .header-img img {
   max-width: 45%;
